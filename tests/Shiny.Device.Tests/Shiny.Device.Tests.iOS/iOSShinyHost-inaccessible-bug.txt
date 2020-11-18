@@ -1,0 +1,3 @@
+The project tests/Shiny.Device.Tests/Shiny.Device.Tests.iOS/Shiny.Device.Tests.iOS.csproj
+builds from source, but not when the project references are replaced with packages of the latest version - 2.0.0.2356-preview
+
